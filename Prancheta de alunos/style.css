@@ -1,0 +1,43 @@
+.cabecalho {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    ;
+}
+
+.cabecalho-imagem {
+        width: 25%;
+}
+
+.cabecalho-lista {
+    justify-content:right;
+}
+
+.imagem-perfil {
+    width: 10% ;
+
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.estudante-imagem {
+    width: 150px;
+}
+
+.estudante-div  {
+    text-align: center;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.estudante-todos {
+    display: flex;
+    flex-wrap: wrap;
+}
